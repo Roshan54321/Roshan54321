@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Roshan54321
-- 👀 I’m interested in web, web-app development,   
+- 👀 I’m interested in web development,   
 - 💞️ I’m looking to collaborate on designing, development, 
 - 📫 How to reach me -> roshanneupane54321@gmail.com
