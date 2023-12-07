@@ -1,5 +1,5 @@
 # Hey there! 👋 I'm Roshan 
-***
+
 👨‍💻 Passionate about Web Development, System Administration (Linux, DevOps), and Networking.
 
 🌟 Always open to collaboration on projects related to design, development, automation, integration, quality assurance and more.
@@ -22,9 +22,9 @@ I'm Roshan Neupane, an enthusiast dedicated to exploring the realms of technolog
 
 ## Let's Connect 🤝
 
-📧 **Email:** roshanneupane54321@gmail.com
-💻 **Portfolio:** [Explore My Work](http://roshnpn.codes/)
-🌐 **LinkedIn:** [Roshan Neupane](https://www.linkedin.com/in/roshan-neupane-313771229/)
+📧 **Email:** roshanneupane54321@gmail.com\
+💻 **Portfolio:** [Explore My Work](http://roshnpn.codes/)\
+🌐 **LinkedIn:** [Roshan Neupane](https://www.linkedin.com/in/roshan-neupane-313771229/)\
 📘 **Facebook:** [Roshan Neupane](https://www.facebook.com/roshanneupane54321/)
 
 ### Chasing dreams one line of code at a time. ✨
