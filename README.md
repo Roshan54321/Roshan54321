@@ -1,8 +1,8 @@
 # Hey there! 👋 I'm Roshan 
 
-👨‍💻 Passionate about Web Development, Machine Learning, System Administration (Linux, DevOps), and Networking.
+👨‍💻 Passionate about Web Development, Computer Vision, System Administration (Linux, DevOps), and Networking.
 
-🌟 Always open to collaboration on projects related to design, development, automation, integration, quality assurance and more.
+🌟 Always open to collaboration on projects related to design, development, computer vision, automation, integration, quality assurance and more.
 
 ## About Me
 
@@ -13,10 +13,12 @@ I'm Roshan Neupane, an enthusiast dedicated to exploring the realms of technolog
 - **Web Development**
 - **Linux Systems**
 
-# Proficient
-- **Machine Learning**
+# Pursuing
+
+- **Computer Vision**
 
 # Interests
+
 - **Computer Networking**
 - **Robotics**
 
